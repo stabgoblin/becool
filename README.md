@@ -1,2 +1,2 @@
-# expect-adventure
-- **This is my first repository
+# becool
+- this is the repository for my resume website
