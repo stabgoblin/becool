@@ -1,0 +1,29 @@
+:root {
+background-color: rgba(34,34,34,0.3);
+}
+.box {
+	padding: 3px 3px 3px 3px;
+	border: 2px solid black;
+	display: flex;
+	background-color: rgba(0,34,34,0.3);
+}
+.top-header {
+	margin-right: 30;
+	border-bottom: 5px solid blue;
+	text-align: right;
+	
+}
+.name {
+	margin: 10px 20px 30px 0px;
+	float:left;
+	margin-right: 800px;
+}
+.myname {
+	margin: 0px 0px 0px 0px;
+	font-size: 19px;
+	font-weight: 600;
+}
+.contact-info {
+	margin-left: 100px;
+	float: right;
+}
